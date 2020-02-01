@@ -7,6 +7,7 @@
 The **Slack Progress** helps you monitor your deep learning activity with Slack.
 
 ![demo](https://user-images.githubusercontent.com/59395084/73117186-29a37580-3f85-11ea-8f0a-8a42ea136788.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskmatz%2Fspr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskmatz%2Fspr?ref=badge_shield)
 
 ## Install
 
@@ -43,3 +44,7 @@ You can run [example.py](example.py) with:
 ```sh
 TOKEN=xxx CHANNEL=yyy python example.py
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskmatz%2Fspr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskmatz%2Fspr?ref=badge_large)
